@@ -1,2 +1,3 @@
 # c02-factors-project
-This MDS503 project explores CO2 emissions and diverse factors using Gapminder data. Employing advanced statistical methods, we construct models to reveal nuanced relationships, contributing to environmental sustainability discourse.
+
+The project requires the completion of a mini policy research project utilizing Gapminder data starting from Week 6. The student has the autonomy to determine the research theme, questions, and objectives, all grounded in Gapminder data. Throughout the module, data analysis is performed using techniques such as Naïve Bayes Classification, Logistic Regression, and Linear Modeling (including diagnostics, ANOVA, and regularization techniques). The student compiles findings into a presentation deck, covering an introduction to the research area, objectives, specific questions, data analysis results, and policy recommendations. Evaluation criteria include data storytelling, research, and statistical skills.
